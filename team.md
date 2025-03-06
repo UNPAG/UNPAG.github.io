@@ -7,7 +7,7 @@ title: The team
 
 #### Prof. Hedde Zeijlstra
 
-![Hedde Zeijlstra](/assets/img/hedde.jpg|width=10)
+![Hedde Zeijlstra](/assets/img/hedde.jpg|width=100)
 
 ### Postdoctoral researchers
 
