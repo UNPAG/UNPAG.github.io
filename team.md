@@ -15,7 +15,10 @@ title: The team
 
 ![image](/assets/img/jessica.jpg)  
 
-Dr. Ekaterina Vostrikova
-Dr. Ziling Zhu
+#### Dr. Ekaterina Vostrikova  
 
-### PhD students
+![image](/assets/img/katia.avif)  
+
+#### Dr. Ziling Zhu  
+
+![image](/assets/img/ziling.heic)  
