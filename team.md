@@ -5,7 +5,9 @@ title: The team
 
 ### Principal Investigator
 
-Prof. Hedde Zeijlstra
+#### Prof. Hedde Zeijlstra
+
+![image]("/assets/img/hedde.jpg")  
 
 ### Postdoctoral researchers
 
