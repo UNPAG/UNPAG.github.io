@@ -7,13 +7,13 @@ title: The team
 
 #### Prof. Hedde Zeijlstra
 
-![image]("/assets/img/hedde.jpg")  
+![image](/assets/img/hedde.jpg)  
 
 ### Postdoctoral researchers
 
 #### Dr. Jéssica Mendes  
 
-![image]("/assets/img/jessica.jpg")  
+![image](/assets/img/jessica.jpg)  
 
 Dr. Ekaterina Vostrikova
 Dr. Ziling Zhu
