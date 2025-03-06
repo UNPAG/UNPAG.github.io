@@ -13,7 +13,9 @@ title: The team
 
 #### Dr. Jéssica Mendes  
 
-![Jéssica Mendes](/assets/img/jessica.JPG)  
+![Jéssica Mendes](/assets/img/jessica.JPG){: style="float: left"} 
+
+xxxx
 
 #### Dr. Ekaterina Vostrikova  
 
