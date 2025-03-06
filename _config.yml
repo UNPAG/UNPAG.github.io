@@ -23,10 +23,7 @@ navbar-links:
   Events: 
   Publications:
   About Me: "aboutme"
-  The team:
-    - Hedde Zeijlstra
-    - Postdoctoral researchers
-    - PhD students
+  The team: "team"
   Work with us:
 
 ################
