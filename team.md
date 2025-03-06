@@ -13,12 +13,12 @@ title: The team
 
 #### Dr. Jéssica Mendes  
 
-![image](/assets/img/jessica.jpg)  
+![image](/assets/img/jessica.JPG)  
 
 #### Dr. Ekaterina Vostrikova  
 
-![image](/assets/img/katia.avif)  
+![image](/assets/img/katia.PNG)  
 
 #### Dr. Ziling Zhu  
 
-![image](/assets/img/ziling.heic)  
+![image](/assets/img/ziling.jpg)  
